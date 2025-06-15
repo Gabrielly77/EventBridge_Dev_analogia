@@ -1,6 +1,11 @@
 # EventBridge_Dev_analogia
 
 📞✨ Pega essa analogia que ficou CHIQUE DEMAIS kkkkkkk:
+
+![image](https://github.com/user-attachments/assets/02e463df-eecc-4057-a73a-78cc6b70b9f3)
+
+
+
 O Event é tipo aquele telefone com fio que leva a mensagem direto, na hora, de quem gerou o evento pra quem precisa receber. Não tem enrolação, não tem "vou deixar na caixa de correio" igual SQS, nem "manda pra todo mundo da lista" igual SNS.
 
 É assim ó:
